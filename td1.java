@@ -23,6 +23,6 @@ public class td1 {
         System.out.println("*******");
     }
     private static void exo4() {
-    /**juste des exos à la con ( des calculs )*/    
+    /**juste des exos a la con ( des calculs )*/    
 }
 }
