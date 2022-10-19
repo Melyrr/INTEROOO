@@ -1,5 +1,4 @@
-import java.io.PipedWriter;
-import java.util.Scanner;;
+import java.util.Scanner;
 public class td2 {
     public static void main(String[] args) {
         exo1();
@@ -13,8 +12,8 @@ public class td2 {
         exo9();
     }
     public static void exo1() {
-            int a = 51;
-            int b = 17;
+            int a = 52;
+            int b = 27;
             System.out.println(a+b);
             System.out.println(a-b);
             System.out.println(a*b);
