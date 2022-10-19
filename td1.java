@@ -1,10 +1,9 @@
+import td4.exo5;
+
 public class td1 {
     public static void  main(String[] args) {
         exo1();
         exo2();
-        exo3();
-        exo4();
-
     }
     private static void exo1() {
         System.out.println("----------");
